@@ -17,22 +17,28 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQLi
+<img src="sqli.gif" width="800">
 
 Vulnerability #2: Session Hijacking/Fixation
+<img src="session hijacking.gif" width="800">
 
 
 ## Green
 
 Vulnerability #1: Username Enumeration
+<img src="username enumeration.gif" width="800">
 
 Vulnerability #2: XSS
+<img src="xss.gif" width="800">
 
 
 ## Red
 
 Vulnerability #1: IDOR
+<img src="idor.gif" width="800">
 
 Vulnerability #2: CSRF
+<img src="csrf.gif" width="800">
 
 
 ## Notes
